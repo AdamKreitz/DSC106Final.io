@@ -1,0 +1,41 @@
+#container {
+  max-width: 800px;
+  height: 400px;
+  margin: 1em auto;
+}
+
+.fourchart {
+    float: left;
+    width: 50%;
+}
+
+.spacer {
+    height: 20px;
+}
+
+#bar-chart {
+  height: 400px;
+  width: 100%;
+}
+
+#gif1 {
+  height: 400px;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#gif {
+  height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#text {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  font-size: 20px;
+}
