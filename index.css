@@ -39,3 +39,50 @@
   display: block;
   font-size: 20px;
 }
+
+#logo {
+  height: 400px;
+}
+
+#logo1 {
+  width: 400px;
+}
+
+#logo2 {
+  width: 400px;
+}
+
+#logo3 {
+  width: 400px;
+}
+
+#imgcontain {
+  float: left;
+  width: 100%;
+  margin-left: 200px;
+}
+
+#right {
+  float: right;
+  margin-top: 150px;
+  font-size: 100px;
+  margin-right: 600px;
+
+}
+
+#right1 {
+  float: right;
+  font-size: 100px;
+  margin-right: 600px;
+
+}
+
+#logo1 {
+  margin-bottom: 100px;
+}
+
+#right2 {
+  float: right;
+  font-size: 100px;
+  margin-right: 600px;
+}
